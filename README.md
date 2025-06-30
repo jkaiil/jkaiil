@@ -1,8 +1,8 @@
 
-<h1 align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxlZTl2OHYxOTFmcXltbnczMmsxbXMxcnNiY3FiYXpuMm1vaTVhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FX5aKofPgom36xXCSe/giphy.gif" width="4%"> Welcome to <a href="https://imp.works" target="_blank">JKL’s</a> github page <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxlZTl2OHYxOTFmcXltbnczMmsxbXMxcnNiY3FiYXpuMm1vaTVhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FX5aKofPgom36xXCSe/giphy.gif" width="4%"> </h1>
+<h1 align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxlZTl2OHYxOTFmcXltbnczMmsxbXMxcnNiY3FiYXpuMm1vaTVhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FX5aKofPgom36xXCSe/giphy.gif" width="4%"> Welcome to   <a href="https://soundcloud.com/jkail" target="_blank"> JKL‘s amazing Github page.</a> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxlZTl2OHYxOTFmcXltbnczMmsxbXMxcnNiY3FiYXpuMm1vaTVhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FX5aKofPgom36xXCSe/giphy.gif" width="4%"> </h1>
 <br>
 <p align="center">
-✨ Hello!  ※  I’m Jkail.  ※  I make linux rices and private projects, might drop some public repos down the line <br>
+✨ Hello!    I’m Jkail.  I make linux rices and private projects, might drop some public repos down the line ✨<br>
 
 </p>
 <h1> </h1>
@@ -22,12 +22,13 @@
 
 
   <p align="center">
-  ▮ I code in the languages that interest me or i find a use for. ▮
+  ⚔️ I code in the languages that interest me or i find a use for. ⚔️ 
+
   </p>
         <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cGNlam1xZGMyb2I3aHNjYW81Mm14OXNhcTcxbGFjYW05M3QwcGhwYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZOGCyj0NW28gg/giphy.gif" width="10%">
 
   <p align="center">
-    ■ ■
+    ■ おかえりなさいませ ■
   </p>
 <!---
 jkaiil/jkaiil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
