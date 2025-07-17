@@ -1,8 +1,8 @@
 
-<h1 align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxlZTl2OHYxOTFmcXltbnczMmsxbXMxcnNiY3FiYXpuMm1vaTVhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FX5aKofPgom36xXCSe/giphy.gif" width="4%"> Welcome to   <a href="https://soundcloud.com/jkail" target="_blank"> JKL‘s amazing Github page.</a> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxlZTl2OHYxOTFmcXltbnczMmsxbXMxcnNiY3FiYXpuMm1vaTVhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FX5aKofPgom36xXCSe/giphy.gif" width="4%"> </h1>
+<h1 align="center"> <a href="https://soundcloud.com/jkail" target="_blank"> ⚔️ JKL ⚔️ </a>  </h1>
 <br>
 <p align="center">
-✨ Hello!    I’m Jkail.  I make linux rices and private projects, might drop some public repos down the line ✨<br>
+✨ Hello! I make linux rices and private projects, might drop some public repos down the line. or something. ✨<br>
 
 </p>
 <h1> </h1>
