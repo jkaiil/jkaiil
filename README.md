@@ -2,7 +2,7 @@
 <h1 align="center"> <a href="https://soundcloud.com/jkail" target="_blank"> ⚔️ JKL ⚔️ </a>  </h1>
 <br>
 <p align="center">
-✨ Hello! I make linux rices and private projects, might drop some public repos down the line. or something. ✨<br>
+✨ i make stuff ✨<br>
 
 </p>
 <h1> </h1>
