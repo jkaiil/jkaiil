@@ -25,7 +25,7 @@
   ⚔️ I code in the languages that interest me or i find a use for. ⚔️ 
 
   </p>
-        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cGNlam1xZGMyb2I3aHNjYW81Mm14OXNhcTcxbGFjYW05M3QwcGhwYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZOGCyj0NW28gg/giphy.gif" width="10%">
+        <img 
 
   <p align="center">
     ■ おかえりなさいませ ■
